@@ -3,7 +3,7 @@
 - **Escuela Profesional de Ingenieria Informática y de Sistemas**
 - **Mineria de datos**
 #### **Docente**:
-- **Montoya CUbas Carlos Fernando** -
+- **Montoya Cubas Carlos Fernando** -
 ---
 
 ---
